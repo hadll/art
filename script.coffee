@@ -1,2 +1,4 @@
 banana="amogus"
-console.log(banana)
+apple=21
+for i in [0..apple]
+    console.log(banana)
